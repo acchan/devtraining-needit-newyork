@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_location_item_stream">
+    <sys_sg_location_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="NeedIt - Next Quarter">aca6a24c1b9488100b8a7597dc4bcbb9</data_item>
+        <interleaved_field/>
+        <location>u_requested_for.location</location>
+        <name>Map Item Stream</name>
+        <pin_color>#64DDAC</pin_color>
+        <sys_class_name>sys_sg_location_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-30 13:01:07</sys_created_on>
+        <sys_id>abb8dfc81bd84410f019c91b1e4bcb2d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Map Item Stream</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_location_item_stream_abb8dfc81bd84410f019c91b1e4bcb2d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-30 13:01:07</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+    </sys_sg_location_item_stream>
+</record_update>
